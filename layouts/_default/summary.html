@@ -6,7 +6,7 @@
 
   {{ if isset .Params "featured_image" }}
     <p>
-      <img src="{{ .Params.featured_image }}">
+      <a href="{{ .RelPermalink }}"><img src="{{ .Params.featured_image }}"></a>
     </p>
     {{ if isset .Params "featured_text" }}
       <p>
