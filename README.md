@@ -1,6 +1,6 @@
 # Blackburn
 
-Blackburn is a clear and responsive theme for [Hugo](//gohugo.io). The changes of this fork enhance Blackburn's capabilities regarding photo blogging.
+Blackburn is a clear and responsive theme for [Hugo](//gohugo.io). The changes of this fork enhance Blackburn's capabilities regarding photo blogging. A description is provided in the section "Featured Photo".
 
 ## Overview
 
@@ -41,7 +41,7 @@ Blackburn is a clear and responsive theme for [Hugo](//gohugo.io). The changes o
 ## Demo
 
 * [Demo](http://themes.gohugo.io/theme/blackburn/)
-* You can also see it in action on my personal website [here](http://yoshiharuyamashita.com/)
+* You can also see it in action on my personal website [here](https://holger.tk)
 
 ## Screenshots
 
