@@ -1,6 +1,8 @@
 # Blackburn
 
-Blackburn is a clear and responsive theme for [Hugo](//gohugo.io). The changes of this fork enhance Blackburn's capabilities regarding photo blogging. A description is provided in the section "Featured Photo".
+Blackburn is a clear and responsive theme for [Hugo](//gohugo.io) originally developed by [yoshiharuyamashita](https://github.com/yoshiharuyamashita/blackburn).
+
+The changes of my fork enhance Blackburn's capabilities regarding photo blogging. A description is provided in the section "Featured Photo".
 
 ## Overview
 
@@ -54,10 +56,10 @@ In your Hugo site directory, run:
 ```shell
 $ mkdir themes
 $ cd themes
-$ git clone https://github.com/yoshiharuyamashita/blackburn.git
+$ git clone https://github.com/ho1ger/blackburn.git
 ```
 
-or download from [here](//github.com/yoshiharuyamashita/blackburn/archive/master.zip).
+or download from [here](//github.com/ho1ger/blackburn/archive/master.zip).
 
 See [Hugo Quickstart Guide](//gohugo.io/overview/quickstart/) for more information.
 
