@@ -16,6 +16,7 @@ The changes of my fork enhance Blackburn's capabilities regarding photo blogging
   * Tumblr
   * Instagram
   * Flickr
+  * 500px
   * Pinterest
   * YouTube
   * Vimeo
@@ -135,6 +136,7 @@ paginate = 10
   # SNS photo/video sharing
   instagram = "*"
   flickr = "*"
+  photo500px = "*"
   pinterest = "*"
   youtube = "*"
   vimeo = "*"
