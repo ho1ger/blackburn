@@ -4,10 +4,12 @@
     {{ partial "post_meta.html" . }}
   </header>
 
-  {{ if isset .Params "featured_image" }}
+  {{ if or (isset .Params "featured_image") (isset .Params "featured_text")}}
+    {{ if isset .Params "featured_image" }}
     <p>
       <a href="{{ .RelPermalink }}"><img src="{{ .Params.featured_image }}"></a>
     </p>
+    {{ end }}
     {{ if isset .Params "featured_text" }}
       <p>
         {{ .Params.featured_text }}
